@@ -38,9 +38,9 @@ social:
   email: carsten@bconsult.cc # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://linkedin.com/in/cabrauck/
     - https://x.com/cabrauck # change to your linkedin profile
     - https://github.com/cabrauck # change to your GitHub homepage
-    - https://linkedin.com/in/cabrauck/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
