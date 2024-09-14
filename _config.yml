@@ -42,8 +42,7 @@ social:
     - https://www.linkedin.com/in/cabrauck/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-      - https://x.com/cabrauck # change to your Twitter homepage
-
+    - https://x.com/cabrauck # change to your Twitter homepage
 
 # Site Verification Settings
 webmaster_verifications:
